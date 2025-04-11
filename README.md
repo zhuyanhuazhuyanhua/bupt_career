@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">牛客：https://www.nowcoder.com/<br>acwing：https://www.acwing.com/<br>leetcode：https://leetcode.cn/<br>洛谷：https://www.luogu.com.cn/<br>稀土掘金：https://juejin.cn/</h2>
+<h3 align="left">牛客：https://www.nowcoder.com/<br>acwing：https://www.acwing.com/<br>leetcode：https://leetcode.cn/<br>洛谷：https://www.luogu.com.cn/<br>稀土掘金：https://juejin.cn/</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">BOSS直聘：https://www.zhipin.com/beijing/?seoRefer=index<br>前程无忧：https://www.51job.com/<br>脉脉：https://maimai.cn/<br>智联招聘：https://www.zhaopin.com/<br>牛客：https://www.nowcoder.com/<br>海外兔：https://osjobs.net/</h2>
+<h3 align="left">BOSS直聘：https://www.zhipin.com/beijing/?seoRefer=index<br>前程无忧：https://www.51job.com/<br>脉脉：https://maimai.cn/<br>智联招聘：https://www.zhaopin.com/<br>牛客：https://www.nowcoder.com/<br>海外兔：https://osjobs.net/</h3>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="left">github：https://github.com/<br>csdn：https://www.csdn.net/<br>古月居：https://www.luogu.com.cn/</h2>
+<h3 align="left">github：https://github.com/<br>csdn：https://www.csdn.net/<br>古月居：https://www.luogu.com.cn/</h3>
 
 ###
 
@@ -64,7 +64,7 @@
 
 ###
 
-<h2 align="left">浙江大学图灵班开源：https://zju-turing.github.io/TuringCourses/readings/<br>北京大学OIWIKI：https://oi-wiki.org/<br>清华大学计算机开源：https://rekcarc-tsc-uht.readthedocs.io/en/latest/</h2>
+<h3 align="left">浙江大学图灵班开源：https://zju-turing.github.io/TuringCourses/readings/<br>北京大学OIWIKI：https://oi-wiki.org/<br>清华大学计算机开源：https://rekcarc-tsc-uht.readthedocs.io/en/latest/</h3>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h2 align="left">Hello算法：https://www.hello-algo.com/chapter_hello_algo/<br>菜鸟教程：https://www.runoob.com/</h2>
+<h3 align="left">Hello算法：https://www.hello-algo.com/chapter_hello_algo/<br>菜鸟教程：https://www.runoob.com/</h3>
 
 ###
 
@@ -88,7 +88,7 @@
 
 ###
 
-<h2 align="left">cursor：https://www.cursor.com/cn<br>通义灵码：https://lingma.aliyun.com/<br>豆包Marscode：https://www.marscode.cn/workbench<br>Trae：https://www.trae.com.cn/home</h2>
+<h3 align="left">cursor：https://www.cursor.com/cn<br>通义灵码：https://lingma.aliyun.com/<br>豆包Marscode：https://www.marscode.cn/workbench<br>Trae：https://www.trae.com.cn/home</h3>
 
 ###
 
@@ -96,7 +96,7 @@
 
 ###
 
-<h2 align="left">https://github.com/codecrafters-io/build-your-own-x<br>https://github.com/xingshaocheng/architect-awesome<br>https://github.com/xiaobaiTech/golangFamily</h2>
+<h3 align="left">https://github.com/codecrafters-io/build-your-own-x<br>https://github.com/xingshaocheng/architect-awesome<br>https://github.com/xiaobaiTech/golangFamily</h3>
 
 ###
 
@@ -104,7 +104,7 @@
 
 ###
 
-<h2 align="left">智链：https://ilink.bupt.edu.cn/login?redirect=/user/training<br>昭析：http://drawsee.cn/about<br>码上初发：https://ezcoding.bupt.edu.cn/<br>智臻：http://geekgen.yifan.ink/<br>邮大师：https://umaster.bupt.edu.cn/login<br>sparkflare：http://sparkflare.cn/<br>winihelper：https:winihelper.com</h2>
+<h3 align="left">智链：https://ilink.bupt.edu.cn/login?redirect=/user/training<br>昭析：http://drawsee.cn/about<br>码上初发：https://ezcoding.bupt.edu.cn/<br>智臻：http://geekgen.yifan.ink/<br>邮大师：https://umaster.bupt.edu.cn/login<br>sparkflare：http://sparkflare.cn/<br>winihelper：https:winihelper.com</h3>
 
 ###
 
