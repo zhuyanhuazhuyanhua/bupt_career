@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋BUPT就业资源指南</h1>
 
 ###
 
@@ -107,3 +107,4 @@
 <h2 align="left">智链：https://ilink.bupt.edu.cn/login?redirect=/user/training<br>昭析：http://drawsee.cn/about<br>码上初发：https://ezcoding.bupt.edu.cn/<br>智臻：http://geekgen.yifan.ink/<br>邮大师：https://umaster.bupt.edu.cn/login<br>sparkflare：http://sparkflare.cn/<br>winihelper：https:winihelper.com</h2>
 
 ###
+
