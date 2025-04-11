@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋这里是bupt就业仓库</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">牛客<br>acwing<br>leetcode<br>洛谷</h2>
+<h2 align="left">牛客：https://www.nowcoder.com/<br>acwing：https://www.acwing.com/<br>leetcode：https://leetcode.cn/<br>洛谷：https://www.luogu.com.cn/<br>稀土掘金：https://juejin.cn/</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h2 align="left">BOSS直聘<br>前程无忧<br>脉脉<br>智联招聘<br>牛客</h2>
+<h2 align="left">BOSS直聘：https://www.zhipin.com/beijing/?seoRefer=index<br>前程无忧：https://www.51job.com/<br>脉脉：https://maimai.cn/<br>智联招聘：https://www.zhaopin.com/<br>牛客：https://www.nowcoder.com/<br>海外兔：https://osjobs.net/</h2>
 
 ###
 
@@ -56,14 +56,38 @@
 
 ###
 
-<h2 align="left">github<br>csdn</h2>
+<h2 align="left">github：https://github.com/<br>csdn：https://www.csdn.net/<br>古月居：https://www.luogu.com.cn/</h2>
 
 ###
 
-<h1 align="left">其他</h1>
+<h1 align="left">高校计算机社团及开源课程</h1>
 
 ###
 
-<h2 align="left">浙江大学图灵班：https://zju-turing.github.io/TuringCourses/readings/</h2>
+<h2 align="left">浙江大学图灵班开源：https://zju-turing.github.io/TuringCourses/readings/<br>北京大学OIWIKI：https://oi-wiki.org/<br>清华大学计算机开源：https://rekcarc-tsc-uht.readthedocs.io/en/latest/</h2>
+
+###
+
+<h1 align="left">算法网站</h1>
+
+###
+
+<h2 align="left">Hello算法：https://www.hello-algo.com/chapter_hello_algo/<br>菜鸟教程：https://www.runoob.com/</h2>
+
+###
+
+<h1 align="left">插件</h1>
+
+###
+
+<h2 align="left">沉浸式翻译：https://immersivetranslate.com/zh-Hans/<br>截图贴图：https://zh.snipaste.com/</h2>
+
+###
+
+<h1 align="left">AI编程插件</h1>
+
+###
+
+<h2 align="left">cursor：https://www.cursor.com/cn<br>通义灵码：https://lingma.aliyun.com/<br>豆包Marscode：https://www.marscode.cn/workbench<br>Trae：https://www.trae.com.cn/home</h2>
 
 ###
