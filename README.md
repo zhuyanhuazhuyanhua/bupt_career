@@ -36,7 +36,7 @@
 
 ###
 
-<h1 align="left">刷题网站</h1>
+<h1 align="left">😊刷题网站</h1>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h1 align="left">招聘软件</h1>
+<h1 align="left">😂招聘软件</h1>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h1 align="left">技术论坛</h1>
+<h1 align="left">😍技术论坛</h1>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h1 align="left">高校计算机社团及开源课程</h1>
+<h1 align="left">🎶高校计算机社团及开源课程</h1>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h1 align="left">算法网站</h1>
+<h1 align="left">🙌算法网站</h1>
 
 ###
 
@@ -76,7 +76,7 @@
 
 ###
 
-<h1 align="left">插件</h1>
+<h1 align="left">😘插件</h1>
 
 ###
 
@@ -84,10 +84,26 @@
 
 ###
 
-<h1 align="left">AI编程插件</h1>
+<h1 align="left">❤️AI编程插件</h1>
 
 ###
 
 <h2 align="left">cursor：https://www.cursor.com/cn<br>通义灵码：https://lingma.aliyun.com/<br>豆包Marscode：https://www.marscode.cn/workbench<br>Trae：https://www.trae.com.cn/home</h2>
+
+###
+
+<h1 align="left">🤷‍♀️github项目推荐</h1>
+
+###
+
+<h2 align="left">https://github.com/codecrafters-io/build-your-own-x<br>https://github.com/xingshaocheng/architect-awesome<br>https://github.com/xiaobaiTech/golangFamily</h2>
+
+###
+
+<h1 align="left">😎BUPT初创公司及优质项目</h1>
+
+###
+
+<h2 align="left">智链：https://ilink.bupt.edu.cn/login?redirect=/user/training<br>昭析：http://drawsee.cn/about<br>码上初发：https://ezcoding.bupt.edu.cn/<br>智臻：http://geekgen.yifan.ink/<br>邮大师：https://umaster.bupt.edu.cn/login<br>sparkflare：http://sparkflare.cn/<br>winihelper：https:winihelper.com</h2>
 
 ###
