@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">腾讯:                        https://join.qq.com<br>字节跳动：https://jobs.bytedance.com<br>阿里：https://talent.alibaba.com<br>美团：https://zhaopin.meituan.com/web/home<br>华为：https://career.huawei.com/reccampportal/portal5/index.html<br>网易：https://campus.163.com/app/index<br>京东：https://zhaopin.jd.com/home<br>网易：https://www.honor.com/cn/career/<br>中兴：https://job.zte.com.cn/cn/index.html</h3>
+<h3 align="left">腾讯:                        https://join.qq.com<br>字节跳动：https://jobs.bytedance.com<br>阿里：https://talent.alibaba.com<br>美团：https://zhaopin.meituan.com/web/home<br>华为：https://career.huawei.com/reccampportal/portal5/index.html<br>网易：https://campus.163.com/app/index<br>京东：https://zhaopin.jd.com/home<br>网易：https://www.honor.com/cn/career/<br>中兴：https://job.zte.com.cn/cn/index.html<br>滴滴：https://talent.didiglobal.com/</h3>
 
 ###
 
