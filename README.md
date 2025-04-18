@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋BUPT就业资源指南🙌</h1>
+<h1 align="center">🎶hey there 👋BUPT就业资源指南🙌</h1>
 
 ###
 
