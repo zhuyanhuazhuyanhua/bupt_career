@@ -108,6 +108,11 @@
 
 
 
+
+###
+<h1 align="left">🎶大模型应用开发建议</h1>
+###
+<h3 align="left">基本概念：大模型的基本概念，基础知识需要掌握<br>开发框架：langchain/langgraph/langsmith,dify,spring ai,coze等等<br>微调框架：pytorch，transformer<br>学习资源：datawhale<br></h3>
 ###
 
 <h1 align="left">🤷‍♀️bilibili up</h1>
