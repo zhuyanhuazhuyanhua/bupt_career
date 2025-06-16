@@ -106,9 +106,6 @@
 
 <h3 align="left">智链：https://ilink.bupt.edu.cn/login?redirect=/user/training<br>昭析：http://drawsee.cn/about<br>码上初发：https://ezcoding.bupt.edu.cn/<br>智臻：http://geekgen.yifan.ink/<br>邮大师：https://umaster.bupt.edu.cn/login<br>sparkflare：http://sparkflare.cn/<br>winihelper：https://winihelper.com/</h3>
 
-
-
-
 ###
 
 <h1 align="left">🎶大模型应用开发建议</h1>
@@ -124,5 +121,13 @@
 ###
 
 <h3 align="left">黑马程序员：https://space.bilibili.com/37974444<br>尚硅谷：https://space.bilibili.com/302417610?spm_id_from=333.337.0.0<br>零声：https://space.bilibili.com/3546586162399846?spm_id_from=333.337.search-card.all.click</h3>
+
+###
+
+<h1 align="left">🤞编程之夏</h1>
+
+###
+
+<h3 align="left">OSPP开源之夏：https://summer-ospp.ac.cn<br>GSOC谷歌编程之夏：https://summerofcode.withgoogle.com<br>GLCC确实开源编程夏令营：https://www.gitlink.org.cn<br>LFX linux基金会：https://lfx.linuxfoundation.org/tools/mentorship<br>
 
 ###
