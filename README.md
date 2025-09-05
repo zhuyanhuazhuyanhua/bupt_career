@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">🎶hey there 👋BUPT就业资源指南🙌 完全免费</h1>
+<h1 align="center">🎶hey there 👋BUPT就业资源指南🙌 完全免费 </h1>
 
 ###
 
@@ -131,3 +131,5 @@
 <h3 align="left">OSPP开源之夏：https://summer-ospp.ac.cn<br>GSOC谷歌编程之夏：https://summerofcode.withgoogle.com<br>GLCC确实开源编程夏令营：https://www.gitlink.org.cn<br>LFX linux基金会：https://lfx.linuxfoundation.org/tools/mentorship<br>
 
 ###
+
+
